@@ -1,0 +1,50 @@
+{
+  "_from": "git+https://github.com/lylysunshinee/react-native-floating-hearts.git",
+  "_id": "react-native-floating-hearts@0.0.9",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-floating-hearts",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-floating-hearts@git+https://github.com/lylysunshinee/react-native-floating-hearts.git",
+    "name": "react-native-floating-hearts",
+    "escapedName": "react-native-floating-hearts",
+    "rawSpec": "git+https://github.com/lylysunshinee/react-native-floating-hearts.git",
+    "saveSpec": "git+https://github.com/lylysunshinee/react-native-floating-hearts.git",
+    "fetchSpec": "https://github.com/lylysunshinee/react-native-floating-hearts.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/lylysunshinee/react-native-floating-hearts.git#65cfe488000c90928adc69484812df98d24d7f4f",
+  "_spec": "react-native-floating-hearts@git+https://github.com/lylysunshinee/react-native-floating-hearts.git",
+  "_where": "D:\\TOX\\native-mobile-portal",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/underscope/react-native-floating-hearts/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Periscope floating hearts animation for React Native",
+  "homepage": "https://github.com/underscope/react-native-floating-hearts",
+  "keywords": [
+    "react-native",
+    "periscope",
+    "hearts",
+    "floating",
+    "animation"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-floating-hearts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/underscope/react-native-floating-hearts.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.9"
+}
